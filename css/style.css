@@ -144,6 +144,20 @@ footer {
   font-weight: 500;
 }
 
+/* CONTACT */
+
+.contact-list {
+    margin-top: var(--space-lg);
+}
+
+.contact-list li {
+    margin-bottom: var(--space-sm);
+}
+
+.contact-list a {
+    color: var(--color-accent);
+}
+
 @media (min-width: 768px) {
     h1 {
         font-size: 1.6rem;
